@@ -10,9 +10,9 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
 1. [git config](./gitconfig.md)
 2. [git add](./add.md)
-3. [git init]()
-4. [git commit]()
-5. [git clone]()
+3. [git init](./init.md)
+4. [git commit](./commit.md)
+5. [git clone](./clone.md)
 
 
 
