@@ -33,3 +33,12 @@ LICENSE: [MIT](./license.md)
 ---
 
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, lisence: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+
+Совместная работа `Deco` & `keepkilay`:
+
+https://github.com/Macloodev/t1
+
+
+https://github.com/keepkilay/test_1
+
