@@ -22,6 +22,7 @@ LICENSE: [MIT](./license.md)
 3. [git merge](./cooperative/merge.md)
 4. [git pull](./cooperative/pull.md)
 5. [git push](./cooperative/push.md)
+6. [git branch](./cooperative/branch.md)
 
 ### <p style="text-align: center;"> Получение данных о состоянии репозитория:
 1. [git status](./additional/status.md)
